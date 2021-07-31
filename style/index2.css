@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400&display=swap");
+
+body {
+  font-family: "Mulish", sans-serif;
+}
+
+.bg-nav {
+  background-color: rgb(212, 136, 64);
+}
+
+.logo {
+  height: 50px !important;
+}
+
+.btn-hotline {
+  border-radius: 8px !important;
+}
+
+.disclaimer {
+  background-color: rgb(248, 242, 242);
+}
+
+.disclaimer span {
+  font-weight: bold;
+}
+
+.container h2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.list-item {
+  background-color: rgb(248, 242, 242);
+  margin: auto;
+  display: flex;
+  align-items: center;
+  /* height: 55px;
+  line-height: 55px; */
+}
+
+.list-item input {
+  width: 55px;
+  height: 35px;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+
+.list-item button {
+  width: 100px;
+  height: 35px;
+  border: none;
+  color: black;
+  /* border-radius: 50%; */
+}
+
+.btn-pilih {
+  background-color: rgb(212, 136, 64) !important;
+}
+
+.price-card {
+  background-color: rgb(228, 219, 219);
+}
+
+.price-card span {
+  font-weight: bold;
+}
+
+.form-check-input {
+  height: 2px;
+}
+
+#submit-btn {
+  background-color: rgb(212, 136, 64);
+}

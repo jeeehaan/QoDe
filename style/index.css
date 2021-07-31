@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400&display=swap");
+
+body {
+  font-family: "Mulish", sans-serif;
+}
+
+.bg-nav {
+  background-color: rgb(212, 136, 64);
+}
+
+.logo {
+  height: 50px !important;
+}
+
+.btn-hotline {
+  border-radius: 8px !important;
+}
+
+.disclaimer {
+  background-color: rgb(248, 242, 242);
+}
+
+.disclaimer span {
+  font-weight: bold;
+}
+
+.container h2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.list-item {
+  background-color: rgb(248, 242, 242);
+  margin: auto;
+  display: flex;
+  align-items: center;
+  /* height: 55px;
+  line-height: 55px; */
+}
+
+.list-item input {
+  width: 55px;
+  height: 35px;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+
+.list-item button {
+  width: 35px;
+  height: 35px;
+  border: none;
+  color: blue;
+  border-radius: 50%;
+}
+
+.price-card {
+  background-color: rgb(228, 219, 219);
+}
+
+.price-card span {
+  font-weight: bold;
+}
+
+.js-scroll-trigger button {
+  width: 55px;
+  height: 35px;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+
+.navbar-navscroll {
+  color: white;
+  font-weight: bold;
+}
+.jumbotron { 
+  background-image: url(../img/jumbo1.jpg);
+  background-size: cover;
+  height: 720px;
+}
+
+.jumbotron .banner-tagline {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  font-weight: bold;
+  font-size: 48px; 
+}
+
+.jumbotron p {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#form {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+form {
+    padding: 1em;
+    background: #f9f9f9;
+    border: 1px solid #c1c1c1;
+    margin-top: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+  }
+
+#submit-btn {
+  background-color: rgb(212, 136, 64);
+  border-radius: 21px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  height: 43px;
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 150px;
+}
+
+#submit-btn {
+  box-shadow: 0px 1px 18px #4e4e4e;
+}
