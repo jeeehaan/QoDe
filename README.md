@@ -1,5 +1,5 @@
 # QoDe
-Anggota Kelompok :
+Anggota Kelompok : <br>
 Azzahra Geubrina <br>
 Jessy Hanifiah <br>
 Nadia Sofia <br>
